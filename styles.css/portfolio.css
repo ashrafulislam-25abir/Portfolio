@@ -44,13 +44,14 @@
     text-align: center;
 }
 /* main style */
-header{ 
+header { 
     background-color: #FFF8F3;
-    background: url("../images/developer.png"), url("../images/header_bg.png"), #FFF8F3;
-    background-position: 23px 38px, bottom right;
+    background: url("../images/developer.png"), url("../images/header_bg.png"), #f7ebe2;
+    background-position: 25px 38px, bottom right;
     background-repeat: no-repeat;
     padding-top: 50px;
 }
+
 nav{
     width: 71%;
     max-width: 1140px;
